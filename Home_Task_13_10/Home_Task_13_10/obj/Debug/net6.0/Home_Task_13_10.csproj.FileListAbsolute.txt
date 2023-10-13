@@ -1,0 +1,5 @@
+C:\Users\ACER\Desktop\Abstract_Task_13.10\Home_Task_13_10\Home_Task_13_10\obj\Debug\net6.0\Home_Task_13_10.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Abstract_Task_13.10\Home_Task_13_10\Home_Task_13_10\obj\Debug\net6.0\Home_Task_13_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\Abstract_Task_13.10\Home_Task_13_10\Home_Task_13_10\obj\Debug\net6.0\Home_Task_13_10.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\Abstract_Task_13.10\Home_Task_13_10\Home_Task_13_10\obj\Debug\net6.0\Home_Task_13_10.AssemblyInfo.cs
+C:\Users\ACER\Desktop\Abstract_Task_13.10\Home_Task_13_10\Home_Task_13_10\obj\Debug\net6.0\Home_Task_13_10.csproj.CoreCompileInputs.cache
